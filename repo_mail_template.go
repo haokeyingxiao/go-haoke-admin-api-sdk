@@ -1,4 +1,4 @@
-package go_shopware_admin_sdk
+package go_haoke_admin_sdk
 
 import (
 	"net/http"

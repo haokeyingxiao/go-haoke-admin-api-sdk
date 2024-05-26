@@ -1,4 +1,4 @@
-module github.com/friendsofshopware/go-shopware-admin-api-sdk/generator
+module github.com/haokeyingxiao/go-haoke-admin-api-sdk/generator
 
 go 1.17
 

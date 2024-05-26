@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"fmt"
-	sdk "github.com/friendsofshopware/go-shopware-admin-api-sdk"
+	sdk "github.com/haokeyingxiao/go-haoke-admin-api-sdk"
 	"log"
 	"os"
 )
@@ -28,6 +28,6 @@ func main() {
 		fmt.Println(product.Name)
 	}
 
-	// Get current shopware version
+	// Get current haoke version
 	fmt.Println(client.Info.Info(apiContext))
 }

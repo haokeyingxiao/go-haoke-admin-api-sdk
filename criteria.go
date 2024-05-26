@@ -1,4 +1,4 @@
-package go_shopware_admin_sdk
+package go_haoke_admin_sdk
 
 const (
 	TotalCountModeDefault  = 0

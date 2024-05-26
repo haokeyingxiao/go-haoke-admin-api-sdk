@@ -1,4 +1,4 @@
-# SDK for the Shopware 6 Admin API
+# SDK for the HaoKe 6 Admin API
 
 See example folder
 

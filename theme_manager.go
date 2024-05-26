@@ -1,4 +1,4 @@
-package go_shopware_admin_sdk
+package go_haoke_admin_sdk
 
 import (
 	"bytes"
@@ -24,7 +24,7 @@ func (m ThemeManagerService) GetConfiguration(ctx ApiContext, themeId string) (*
 		return nil, nil, err
 	}
 
-	// Old shopware version, use fields instead
+	// Old haoke version, use fields instead
 	if result.CurrentFields == nil {
 		result.CurrentFields = &result.Fields
 	}
